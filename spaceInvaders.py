@@ -26,7 +26,7 @@ pygame.display.set_icon(icon)
 background = pygame.image.load('background.jpg')
 
 # Background sound
-mixer.music.load('background.wav')
+mixer.music.load('SPACEINVADER_L00P.wav')
 mixer.music.play(-1)
 
 #Player
